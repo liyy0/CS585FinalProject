@@ -1,4 +1,5 @@
 CS585 Final Project: Segmentation of Living Cells in Microscope Images
+
 Yuyan Li, Fanjie Gao, Jiayin Fan
 
 The BU Biomedical Image Library (BU-BIL) has collected hundreds of cell images using time-lapse phase-contrast microscopy. This resource includes "ground-truth" segmentations that provide a basis for comparing the effectiveness of proposed segmentation methods. The large volume of data presents a significant challenge for manual interpretation, which is not only labor-intensive and costly but also susceptible to human error. To address this, we propose the development of automated segmentation approaches, including model training and refining connected components.
