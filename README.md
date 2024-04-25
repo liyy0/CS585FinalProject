@@ -7,9 +7,7 @@ The BU Biomedical Image Library (BU-BIL) has collected hundreds of cell images u
 
 ## Dataset
 A library of cell images publicly available: [BU Biomedical Image Library (BU-BIL)](https://www.cs.bu.edu/faculty/betke/BiomedicalImageSegmentation/index.html).
-
-## Final Results
-Experiment results can be found [here](https://drive.google.com/drive/folders/1usilqJoS0XwIFVABQwoZbfId2hbq7LvE?usp=sharing).
+<br>Or download the dataset [here](https://drive.google.com/drive/folders/1usilqJoS0XwIFVABQwoZbfId2hbq7LvE?usp=sharing).
 
 ## Reference
 [1] D. Gurari, D. Theriault, M. Sameki, B. Isenberg, T. A. Pham, A. Purwada, P. Solski, M. Walker, C. Zhang, J. Y. Wong, and M. Betke. "How to Collect Segmentations for Biomedical Images? A Benchmark Evaluating the Performance of Experts, Crowdsourced Non-Experts, and Algorithms." Winter conference on Applications in Computer Vision (WACV), 8 pp, 2015. [In Press].
